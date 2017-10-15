@@ -151,7 +151,7 @@ def show_usage():
     print('  -h                               show help')
     print('  -d, --db [file]                  sqlite db file. Default: ~/.ssmgr/webgui.sqlite')
     print('  -t                               testing, verify SQLite and ssmgr connection')
-    print('  -m, --manager-address [address]  manager address. Default: 127.0.0.1:8383')
+    print('  -m, --manager-address [address]  manager address. Default: 127.0.0.1:4001')
     print('  -p, --password [password]        manager password. Default: 123456')
 
 
